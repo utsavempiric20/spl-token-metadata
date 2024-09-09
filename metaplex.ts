@@ -50,7 +50,7 @@ async function main() {
     // TODO change those values!
     name: "Cat Top Token",
     symbol: "CTT",
-    uri: "https://raw.githubusercontent.com/loopcreativeandy/video-tutorial-resources/main/metadataUpdate/metadata.json",
+    uri: "https://raw.githubusercontent.com/utsavempiric20/spl-token-metadata/main/metadata.json",
   };
   const onChainData = {
     ...ourMetadata,
